@@ -14,7 +14,7 @@ These are the contents of the notebook, not the repository.
 - Dictionary and Context: Explains background information and the data dictionary.
 - Imports and Overview: Shows the libraries imported and used, and a basic overview of the data.
 - Cleaning and Preprocessing: Shows the code used to clean and preprocess the data. (managing outliers, duplicates and missing values)
-- Data Analysis:: Shows the full analysis of the data. This will mostly focus on the phones features relative to their ratings.
+- Data Analysis: Shows the full analysis of the data. This will mostly focus on the phones features relative to their ratings.
 - Insights and Conclusions: This will show the results of the analysis, and which phone features are the most relevant for making a High Rate phone.
 
 ## Purpose
